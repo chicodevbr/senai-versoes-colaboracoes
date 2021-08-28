@@ -1,3 +1,3 @@
 # Resolução de Exercícios
 
-Solução de exercício, curso Programador FullStack.
+Solução de exercício, curso Programador Full Stack.
