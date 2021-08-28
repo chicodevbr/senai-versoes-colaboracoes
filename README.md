@@ -1,3 +1,3 @@
-# senai-versoes-colaboracoes
+# Resolução de Exercícios
 
-readme de exemplo
+Solução de exercício, curso Programador Full Stack.
